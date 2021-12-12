@@ -1,8 +1,4 @@
-Hello Git ! Welcome
-Git Hub.
-Git bash 
-Git cmd
-Git.
-1201
-1201
-1202
+Git -Version Control management system
+Git -git init
+    git add .
+    git commit -m"first commit"
