@@ -2,4 +2,4 @@ Git -Version Control management system
 Git -git init
     git add .
     git commit -m"first commit"
-    git :staging area
+    git :staging area.
